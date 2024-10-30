@@ -5,6 +5,7 @@
 		<img align="center" 
 			width="50%"
 			alt="Adrian's 42 badge (thanks oakoudad)"
+			loading="eager"
 			src="https://badge.mediaplus.ma/darkblue/aweaver?1337Badge=off&UM6P=off"
 		/>
 	</a>
