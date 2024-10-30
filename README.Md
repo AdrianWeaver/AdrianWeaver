@@ -14,6 +14,10 @@ If you are a curious wanderer, this self branding is a still a work in progress,
 Therefore you will find more information about me if you come talk to me!
 
 
+## My projects
+
+Checkout <a href="https://github.com/AdrianWeaver/42cursus">my projects</a> ! 
+
 ## My github page stats
 <p align="center">
 	<!-- page view -->
