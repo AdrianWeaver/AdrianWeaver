@@ -1,9 +1,5 @@
-## Hi! I'm a student at 42 Paris
+## Hello there! o/
 
-<p align="center">
-	<a href="https://github.com/AdrianWeaver/42cursus">
-	<img src="https://badge.nimon.fr/api/v2/cm2vwdwq83782201pf11j49x9c/stats?cursusId=21&coalitionId=45" alt="aweaver's 42 stats provided by https://github.com/Nimon77/badge42" /></a>
-</p>
 
 ## Whoami
 
